@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "question": "Qual a capital do Brasil?",
+        "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Belo Horizonte"],
+        "answer": "Brasília"
+    },
+    {
+        "id": 2,
+        "question": "Quem pintou a Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "id": 3,
+        "question": "Qual o maior oceano do mundo?",
+        "options": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+        "answer": "Pacífico"
+    },
+    {
+        "id": 4,
+        "question": "Quantos planetas existem no sistema solar?",
+        "options": ["7", "8", "9", "10"],
+        "answer": "8"
+    },
+    {
+        "id": 5,
+        "question": "Qual o animal mais rápido do mundo?",
+        "options": ["Leopardo", "Guepardo", "Falcão-peregrino", "Antílope"],
+        "answer": "Guepardo"
+    },
+    {
+        "id": 6,
+        "question": "Em que ano o Brasil foi descoberto?",
+        "options": ["1498", "1500", "1502", "1504"],
+        "answer": "1500"
+    },
+    {
+        "id": 7,
+        "question": "Qual é o maior país do mundo em extensão territorial?",
+        "options": ["China", "Estados Unidos", "Canadá", "Rússia"],
+        "answer": "Rússia"
+    },
+    {
+        "id": 8,
+        "question": "Quem escreveu 'Dom Casmurro'?",
+        "options": ["José de Alencar", "Machado de Assis", "Clarice Lispector", "Guimarães Rosa"],
+        "answer": "Machado de Assis"
+    },
+    {
+        "id": 9,
+        "question": "Qual é a fórmula química da água?",
+        "options": ["H2O", "CO2", "NaCl", "O2"],
+        "answer": "H2O"
+    },
+    {
+        "id": 10,
+        "question": "Em que continente fica o Egito?",
+        "options": ["Ásia", "Europa", "África", "América"],
+        "answer": "África"
+    },
+    {
+        "id": 11,
+        "question": "Qual é a moeda oficial do Japão?",
+        "options": ["Yuan", "Won", "Yen", "Dong"],
+        "answer": "Yen"
+    },
+    {
+        "id": 12,
+        "question": "Quantos lados tem um hexágono?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "6"
+    },
+    {
+        "id": 13,
+        "question": "Qual é o menor país do mundo?",
+        "options": ["Mônaco", "Vaticano", "San Marino", "Liechtenstein"],
+        "answer": "Vaticano"
+    },
+    {
+        "id": 14,
+        "question": "Em que ano terminou a Segunda Guerra Mundial?",
+        "options": ["1944", "1945", "1946", "1947"],
+        "answer": "1945"
+    },
+    {
+        "id": 15,
+        "question": "Qual é o elemento químico representado pelo símbolo 'Au'?",
+        "options": ["Prata", "Ouro", "Alumínio", "Argônio"],
+        "answer": "Ouro"
+    }
+]
+
